@@ -5,7 +5,7 @@
 > + DYNOTEARS 
 > >*2020，将NOTEARS扩展至动态图，融入了时间属性*
 > + GraphNOTEARS 
-> > *AAAI2023，Score-based的动态图NOTEARS8*
+> > *AAAI2023，Score-based的动态图NOTEARS*
 ## 代码
 > + GraphNOTEARS-main 
 > > *包含了NOTEARS、DYNOTEARS等Baselines的实现，Pytorch实现*
