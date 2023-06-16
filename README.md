@@ -10,3 +10,14 @@
 > + GraphNOTEARS-main 
 > > *包含了NOTEARS、DYNOTEARS等Baselines的实现，Pytorch实现*
   
+## 思路
+```mermaid
+graph LR
+
+A[NOTEARS] --> |+ SVAR| B[DYNOTEARS]
+B --> |+ 节点邻接矩阵| C[GraphNOTEARS]
+D[LiNGAM + SVAR] -->|Baseline| B
+D -->|+ 隐变量| E[LiNGLaM]
+E -->|+ 因果识别| F[GIN]
+
+```
