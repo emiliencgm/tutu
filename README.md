@@ -1,4 +1,4 @@
-# 兔兔的科研Github
+# TuTu的科研Github
 ## 论文
 > + NOTEARS
 > > *NIPS2018，无环约束开山之作*
